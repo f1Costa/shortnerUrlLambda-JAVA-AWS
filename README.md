@@ -4,7 +4,7 @@
 
 Este projeto utiliza a biblioteca AWS Lambda Core para criar uma função eficiente e altamente escalável.
 
-🛠️ Funcionalidades
+🛠️ **Funcionalidade e características:**
 
 ✂️ Encurtamento de URLs.
 
